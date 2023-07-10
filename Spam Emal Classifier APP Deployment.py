@@ -44,7 +44,7 @@ if st.button("Predct"):
     if prediction>0.5:
         st.write('Spam')#1
     else:
-        st.write('Not Spam')#0
+        st.write('Not Spam！')#0
 
 
 
